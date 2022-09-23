@@ -12,4 +12,6 @@ npm run dev
 
 Open browser open in browser http://localhost:3000
 
-View project on <a href="https://stackblitz.com/edit/nextjs-ymj2gu" target="_blank">stackblitz</a>
+View project on [stackblitz][df1]
+
+[df1]: <https://stackblitz.com/edit/nextjs-ymj2gu>
