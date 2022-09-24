@@ -15,8 +15,8 @@ Open browser open in browser http://localhost:3000
 View project on [stackblitz][df1]
 
 ## Also read the documentation
-[NextJs - next/image component][df2]
-[React Owl Carousel][df3]
+- [NextJs - next/image component][df2]
+- [React Owl Carousel][df3]
 
 [df1]: <https://stackblitz.com/edit/nextjs-ymj2gu>
 [df2]: <https://nextjs.org/docs/api-reference/next/image>
