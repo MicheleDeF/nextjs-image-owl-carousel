@@ -16,6 +16,7 @@
     "react-owl-carousel": "^2.3.3"
   },
   "devDependencies": {
+    "@types/jquery": "^3.5.14",
     "eslint": "8.11.0",
     "eslint-config-next": "12.1.0"
   }
