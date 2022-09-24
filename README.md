@@ -14,7 +14,7 @@ Open browser open in browser http://localhost:3000
 
 View project on [stackblitz][df1]
 
-## Also read the documentation
+## Also read the related official documentation
 - [NextJs - next/image component][df2]
 - [React Owl Carousel][df3]
 
